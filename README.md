@@ -10,6 +10,7 @@ Event owner send RSVP invitation through emails to VIP guests
 Link: https://github.com/Coder00Fighter/AutoEmailSender
 
 ## Part3: 
-VIP guests confirm RSVP invitation through the email link   
+VIP guests confirm RSVP invitation through the email link 
+Link: https://github.com/bhcsayx/forms/tree/psql
 
 Please refer to the https://github.com/Coder00Fighter/AutoEmailSender for test cases
