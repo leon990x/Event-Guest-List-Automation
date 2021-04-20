@@ -1,4 +1,5 @@
 # Event-Guest-List-Automation
+In iteration1, the project is developed concurrently in three parts. These three parts will be integrated in later iteration.
 
 ## Part1 
 Web portal to show the event related information (box office ticket list and VIP guests info)  
