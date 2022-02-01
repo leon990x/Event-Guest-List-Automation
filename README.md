@@ -11,6 +11,6 @@ Event owner send RSVP invitation through emails to VIP guests
 Link: https://github.com/Coder00Fighter/AutoEmailSender
 ### Part3: 
 VIP guests confirm RSVP invitation through the email link 
-### FULL DOCUMENTATION:
 Link: https://github.com/bhcsayx/forms/tree/psql
+### FULL DOCUMENTATION:
 [Final Report.docx.pdf](https://github.com/leon990x/Event-Guest-List-Automation/files/7982347/Final.Report.docx.pdf)
